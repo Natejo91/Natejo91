@@ -8,6 +8,13 @@ My name is Nathaniel Ortega and I am actively looking for my first job in the te
 
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS3 logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5 logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" alt="python logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="react logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/redux/redux-original.svg" alt="redux logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/sequelize/sequelize-original.svg" alt="sequelize logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" alt="postgresql logo" width="50" height="50" /> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" alt="git logo" width="50" height="50"/> <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg" alt="aws logo" width="50" height="50"/>
 
+---
+
+## &#x1f4c8; My GitHub Stats
+
+
+![Natejo91 GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Natejo91&theme=radical&show_icons=true)
+![Natejo91 GitHub stats](https://github-readme-stats.vercel.app/api?username=Natejo91&theme=radical&show_icons=true)
 
 <!--
 **Natejo91/Natejo91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

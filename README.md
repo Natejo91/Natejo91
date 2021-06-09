@@ -23,12 +23,14 @@ My name is Nathaniel Ortega and I am actively looking for my first job in the te
 ![Natejo91 GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Natejo91&theme=radical&show_icons=true)
 ![Natejo91 GitHub stats](https://github-readme-stats.vercel.app/api?username=Natejo91&theme=radical&show_icons=true)
 
+
+- 🔭 I’m currently working on a petFinder clone Adopt-a-Pet 🐶, and an AirBnB clone AirStage 🎵.
 <!--
 **Natejo91/Natejo91** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on a petFinder clone Adopt-a-Pet 🐶, and an AirBnB clone AirStage 🎵.
+
 - 🌱 I’m currently learning algorithims and Java
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...

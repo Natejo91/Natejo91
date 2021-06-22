@@ -1,6 +1,6 @@
 ### Hi there 👋, welcome to my GitHub!
 
-My name is Nathaniel Ortega and I am actively looking for my first job in the tech industry. I am a professional cellist who learned full stack development from App Academy's intense 24 week full stack immersive course.
+My name is Nathaniel Ortega and I am actively looking for my first job in the tech industry. I am a professional cellist and graduate of the Eastman School of Music who learned full stack development from App Academy's intense 24 week full stack immersive course.
 
 ---
 

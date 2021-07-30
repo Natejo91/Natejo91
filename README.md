@@ -4,7 +4,6 @@ My name is Nathaniel Ortega and I am actively looking for my first job in the te
 
 
 
-
 ---
 🧰 Known languages
 

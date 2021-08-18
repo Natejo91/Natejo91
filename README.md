@@ -19,7 +19,7 @@ My name is Nathaniel Ortega and I am actively looking for my first job in the te
 <img src="https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white%22%3E" />
 ---
 
-- 🌱 I’m currently learning algorithims and data structures, and honing my skills in JavaScript and Python.
+- 🌱 I’m currently learning MongoDB, algorithims, data structures, and honing my skills in JavaScript and Python.
 
 ---
 ## &#x1f4c8; My GitHub Stats

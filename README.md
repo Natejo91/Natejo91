@@ -26,7 +26,8 @@ My name is Nathaniel Ortega and I am actively looking for my first job in the te
 ---
 ## &#x1f4c8; My GitHub Stats
 
-
+![Natejo91 GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=Natejo91&theme=radical&show_icons=true)
+![Natejo91 GitHub stats](https://github-readme-stats.vercel.app/api?username=Natejo91&theme=radical&show_icons=true)
 
 ---
 - 🔭 I’m currently working on a petFinder clone Adopt-a-Pet 🐶, and an AirBnB clone AirStage 🎵.
